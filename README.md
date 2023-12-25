@@ -17,9 +17,13 @@ A customizable and easy-to-use shape maker library for Flutter.
 
 ## Specs
 
-This library allows you to add different kind of shapes like triangle, hexagon and octagon **quickly and easily**, It also offers customizations for giving color, sizes, etc which will help developers to use directly for any widgets like Container, Text, Button or Images as a background.
+This library allows you to add different kinds of shapes like triangles, hexagons, and octagons **quickly and easily**, It also offers customizations for giving color, sizes, etc which will help developers to use directly for any widgets like Container, Text, Button or Images as a background.
 
 It has been written **100% in Dart**. ❤️
+
+![unnamed (3)](https://github.com/hiopitroda/shape_maker/assets/131361235/24f9608c-1451-4c41-a4d9-08456f649f54)
+![unnamed (2)](https://github.com/hiopitroda/shape_maker/assets/131361235/8f7c2726-28a6-4672-a1a7-a7b92b78d0c3)
+![unnamed (1)](https://github.com/hiopitroda/shape_maker/assets/131361235/ccd77f16-4563-47aa-9a52-3b410a78ed04)
 
 ## Getting started
 
@@ -38,7 +42,7 @@ import 'package:shape_maker/shape_maker.dart';
 ```
 
 ## Sample Project
-We have an complete [sample project](./example) demonstrating all features of the library.
+We have a complete [sample project](./example) demonstrating all features of the library.
 
 ## Usage
 
